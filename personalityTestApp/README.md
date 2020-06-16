@@ -2,5 +2,5 @@
 
 This app allows to determine the emotional characteristic of user.
 
-## Getting Started
-
+# Example Codes
+How to iterate through map, function call backs, named parameters etc.
